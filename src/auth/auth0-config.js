@@ -29,7 +29,7 @@ const AUTH0_CONFIG = {
      * For Qlik Sense Enterprise (on-prem with Virtual Proxy):
      *   audience: 'https://your-qlik-server/jwt'
      */
-    audience: "https://mtcrnd.sg.qlikcloud.com",
+    audience: "https://3nyq77e2zsd7w6i.sg.qlikcloud.com",
     scope: "openid profile email",
   },
 };

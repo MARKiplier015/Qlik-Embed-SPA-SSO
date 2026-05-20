@@ -35,7 +35,7 @@
 
 class QlikEmbedManager {
   constructor() {
-    this.host = "mtcrnd.sg.qlikcloud.com";
+    this.host = "3nyq77e2zsd7w6i.sg.qlikcloud.com";
     this.appId = "2b7654d7-2d56-47c4-b1bb-2f88aebaa377";
     this.sheetId = "FCFWtf";
     this.mode = "cloud"; // 'cloud' | 'enterprise'
